@@ -1,2 +1,2 @@
 # CodoACodo-java
-Java Scripts
+Java Scripts de ejemplos y ejercicios del curso.
